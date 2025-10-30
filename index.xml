@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>The Orange Salon</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on The Orange Salon</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Orange Salon Site</title>
+    <link>https://quartz.jzhao.xyz/OrangeSalon/Orange-Salon-Site</link>
+    <guid>https://quartz.jzhao.xyz/OrangeSalon/Orange-Salon-Site</guid>
+    <description><![CDATA[ I’m currently using Quartz as a static site generator to upload the contents of my obsidian vault as html. ]]></description>
+    <pubDate>Thu, 30 Oct 2025 00:52:18 GMT</pubDate>
+  </item><item>
+    <title>consciousness</title>
+    <link>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/consciousness</link>
+    <guid>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/consciousness</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>psychoanalysis</title>
+    <link>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/psychoanalysis</link>
+    <guid>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/psychoanalysis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>subject object distinction</title>
+    <link>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/subject-object-distinction</link>
+    <guid>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/subject-object-distinction</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>Powers of Horror</title>
+    <link>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/Powers-of-Horror</link>
+    <guid>https://quartz.jzhao.xyz/OrangeSalon/651-PowersOfHorror/Powers-of-Horror</guid>
+    <description><![CDATA[ Chapter 1 Neither Subject Nor Object We’re dealing here with the subject object distinction and how it relates to the abject. ]]></description>
+    <pubDate>Thu, 23 Oct 2025 04:00:00 GMT</pubDate>
+  </item><item>
+    <title>The Orange Salon</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Currently, we are reading Powers of Horror by Julia Kristeva! The next meeting is scheduled on Friday, November 7th. ]]></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
