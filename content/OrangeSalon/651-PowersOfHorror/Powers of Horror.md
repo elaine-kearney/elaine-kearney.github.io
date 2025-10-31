@@ -86,7 +86,17 @@ Continuing our emphasis on abjection as exclusion, with particular focus on the 
 
 *"From the start, fear and object are linked"*
 
-Kristeva is setting out the goal for the chapter: to examine how the abject, in its functional role as that which threatens objectification, interacts with and critiques the Freudian [[oedipus complex|Oedipal]] framework.  
+Kristeva is setting out the goal for the chapter: to examine how the abject, in its functional role as that which threatens objectification, interacts with and critiques the Freudian [[oedipus complex|Oedipal]] developmental framework.
+
+Before that though, Kristeva first points out that it is important to take a developmental view of [[the object]] itself.  She points out that logically, the object must be preceded by something like [[partial object|partial objects]], that is, objects understood as the aims of drives -- as she puts it:
+
+> Do we not find, sooner (chronologically and logically speak- ing), if not objects at least pre-objects, poles of attraction of a demand for air, food, and motion?
+
+Through these semi-objects it is clear that the time preceding the development of the notion of the Oedipal object is rife with differentiation, or as she calls it, *gradations within modalities of separation.*  This is sort of like a pre-symbolic, pre-lingual, pre-cognitive experience of suffering that the child endures, culminating in [[castration]].  Seen in this way, the Oedipus complex, in which the whole drama of psychic development is inscribed, is actually a particular developmental form stemming from the process of objectification.
+
+
+
+
 
 ## Hans Is Afraid of the Unnamable
 
