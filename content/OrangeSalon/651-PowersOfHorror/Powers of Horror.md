@@ -82,6 +82,11 @@ Continuing our emphasis on abjection as exclusion, with particular focus on the 
 
 
 # Chapter 2 Something to be Scared Of
+
+In this chapter, Kristeva provides an account of the relation between phobia and objectification through an account of the etiology of phobia and its relation to signification and the Oedipus complex, all the while paying close attention to the abject.  The abject here takes a backseat to her account of phobia, appearing only at a few crucial moments.  This chapter is primarily intra-disciplinary and steeped in psychoanalytic practice, which plays a great hand in its difficulty.
+
+It is important while reading this chapter to have a solid grasp on the notions of **cathexis** and **condensation**.  Cathexis is the process by which a process acquires its mental "energy".  Psychoanalysis begins, not on the couch, but in the autopsy room.  As Kristeva herself notes in this chapter, Freudian theory "*starts off from neurophysiology* (pg 51)".  Freud's mentor was a neurophysiologist at the University of Vienna, and his mentor's mentor, Carl von Rokitansky, was actually the person who performed an autopsy of Beethoven's brain (fun fact).  It is a mistake to think of Freud as simply a clinical psychologist, in many ways his work was an attempt to synthesize clinical practice with scientific principles.  To that end, the "energy" behind cathexis can be understood as neurological stimulation.  Besides cathexis, the other crucial concept to understand is condensation, which refers to the ability for one idea to stand in for several associative chains.  The process of condensation is the basis for things such as metaphor, and it forms the principle behind the central operation of psychoanalysis, which proceeds from symptom to seemingly unrelated cause.  The almost metaphorical connection between symptom and cause is understood through condensation.
+
 ## The Object as Trimming of Anguish
 
 *"From the start, fear and object are linked"*
@@ -90,14 +95,34 @@ Kristeva is setting out the goal for the chapter: to examine how the abject, in 
 
 Before that though, Kristeva first points out that it is important to take a developmental view of [[the object]] itself.  She points out that logically, the object must be preceded by something like [[partial object|partial objects]], that is, objects understood as the aims of drives -- as she puts it:
 
-> Do we not find, sooner (chronologically and logically speak- ing), if not objects at least pre-objects, poles of attraction of a demand for air, food, and motion?
+> Do we not find, sooner (chronologically and logically speaking), if not objects at least pre-objects, poles of attraction of a demand for air, food, and motion?
 
-Through these semi-objects it is clear that the time preceding the development of the notion of the Oedipal object is rife with differentiation, or as she calls it, *gradations within modalities of separation.*  This is sort of like a pre-symbolic, pre-lingual, pre-cognitive experience of suffering that the child endures, culminating in [[castration]].  Seen in this way, the Oedipus complex, in which the whole drama of psychic development is inscribed, is actually a particular developmental form stemming from the process of objectification.
+Through these semi-objects it is clear that the time preceding the development of the notion of the Oedipal object is rife with differentiation, or as she calls it, *gradations within modalities of separation.*  This is sort of like a pre-symbolic, pre-lingual, pre-cognitive experience of suffering that the child endures, culminating in [[castration]].  Seen in this way, the Oedipus complex, in which the whole drama of psychic development is inscribed, is actually a particular developmental form stemming from the problem of the object.
 
-
-
-
+Kristeva turns to the case of [[Little Hans]], a 5 year old boy and subject of a famous case-study by Freud in which he developed his notion of the Oedipus complex.  Hans developed a phobia of horses after watching one collapse in front of his house.  Freud took this phobia as related to his anxiety around competing with his father for the affection of his mother.
 
 ## Hans Is Afraid of the Unnamable
 
-wow wow wow wow wow
+## Phobia as Abortive Metaphor of Want
+
+### Terminology
+**transference**
+**anticathexis**
+
+## "I Am Afraid of Being Bitten" or "I Am Afraid of Biting?"
+
+### Terminology
+**infantile or polymorphic sexuality**
+
+## Phobic Narcissism
+
+> *The **object** of a drive is the thing in regard to which or through which the drive is able to achieve its aim. It is what is most variable about a drive and is not originally connected with it, but becomes assigned to it only in consequence of being particularly fitted to make satisfaction possible*
+
+**borderline cases**-illnesses displaying both neurotic and psychotic components (*from "The Language of Psychoanalysis, pg 252*)
+
+## The Sign - A Condensation
+> *The stress shifts from the terms (images) to the functions that tie them together (condensation, metaphoricalness, and more strongly yet, paternal function), and ultimately to the space, the topology that emerges out of them (unitary bent).* 
+
+> *once the sound image/sight image solidarity is undone, such a splitting allows one to detect an attempt at direct semantization of acoustic, tactile, motor, visual, etc., coenesthesia*
+
+## The Horror Within
