@@ -85,7 +85,9 @@ Continuing our emphasis on abjection as exclusion, with particular focus on the 
 
 In this chapter, Kristeva provides an account of the relation between phobia and objectification through an account of the etiology of phobia and its relation to signification and the Oedipus complex, all the while paying close attention to the abject.  The abject here takes a backseat to her account of phobia, appearing only at a few crucial moments.  This chapter is primarily intra-disciplinary and steeped in psychoanalytic practice, which plays a great hand in its difficulty.
 
-It is important while reading this chapter to have a solid grasp on the notions of **cathexis** and **condensation**.  Cathexis is the process by which a process acquires its mental "energy".  Psychoanalysis begins, not on the couch, but in the autopsy room.  As Kristeva herself notes in this chapter, Freudian theory "*starts off from neurophysiology* (pg 51)".  Freud's mentor was a neurophysiologist at the University of Vienna, and his mentor's mentor, Carl von Rokitansky, was actually the person who performed an autopsy of Beethoven's brain (fun fact).  It is a mistake to think of Freud as simply a clinical psychologist, in many ways his work was an attempt to synthesize clinical practice with scientific principles.  To that end, the "energy" behind cathexis can be understood as neurological stimulation.  Besides cathexis, the other crucial concept to understand is condensation, which refers to the ability for one idea to stand in for several associative chains.  The process of condensation is the basis for things such as metaphor, and it forms the principle behind the central operation of psychoanalysis, which proceeds from symptom to seemingly unrelated cause.  The almost metaphorical connection between symptom and cause is understood through condensation.
+It is important while reading this chapter to have a solid grasp on the notions of **cathexis** and **condensation**.  Cathexis is the process by which a process acquires its mental "energy".  Psychoanalysis begins, not on the couch, but in the autopsy room.  As Kristeva herself notes in this chapter, Freudian theory "*starts off from neurophysiology* (pg 51)".  Freud's mentor was a neurophysiologist at the University of Vienna, and his mentor's mentor, Carl von Rokitansky, was actually the person who performed an autopsy of Beethoven's brain (fun fact).  It is a mistake to think of Freud as simply a clinical psychologist, in many ways his work was an attempt to synthesize clinical practice with scientific principles.  To that end, the "energy" behind cathexis can be understood as neurological stimulation.  Besides cathexis, the other crucial concept to understand is condensation, which refers to the ability for one idea to stand in for several associative chains.  The process of condensation is the basis for things such as metaphor, and it forms the principle behind the central operation of psychoanalysis, which proceeds from symptom to seemingly unrelated cause.  The almost metaphorical connection between symptom and mental process is understood through condensation.
+
+The primary content of the chapter consists of a two pronged approach to the problem of phobia, on the one hand tracing it's relation to the Oedipus complex, on the other tracing the relationship between phobia and pre-Oedipal mental processes, primarily language.
 
 ## The Object as Trimming of Anguish
 
@@ -95,14 +97,23 @@ Kristeva is setting out the goal for the chapter: to examine how the abject, in 
 
 Before that though, Kristeva first points out that it is important to take a developmental view of [[the object]] itself.  She points out that logically, the object must be preceded by something like [[partial object|partial objects]], that is, objects understood as the aims of drives -- as she puts it:
 
-> Do we not find, sooner (chronologically and logically speaking), if not objects at least pre-objects, poles of attraction of a demand for air, food, and motion?
+> *Do we not find, sooner (chronologically and logically speaking), if not objects at least pre-objects, poles of attraction of a demand for air, food, and motion?*
 
 Through these semi-objects it is clear that the time preceding the development of the notion of the Oedipal object is rife with differentiation, or as she calls it, *gradations within modalities of separation.*  This is sort of like a pre-symbolic, pre-lingual, pre-cognitive experience of suffering that the child endures, culminating in [[castration]].  Seen in this way, the Oedipus complex, in which the whole drama of psychic development is inscribed, is actually a particular developmental form stemming from the problem of the object.
 
-Kristeva turns to the case of [[Little Hans]], a 5 year old boy and subject of a famous case-study by Freud in which he developed his notion of the Oedipus complex.  Hans developed a phobia of horses after watching one collapse in front of his house.  Freud took this phobia as related to his anxiety around competing with his father for the affection of his mother.
+Kristeva turns to the case of [[Little Hans]], a 5 year old boy and subject of a famous case-study by Freud in which he developed his notion of the Oedipus complex.  Hans developed a phobia of horses after watching one collapse in front of his house.  Freud took this phobia as related to his anxiety around competing with his father for the affection of his mother.  Kristeva's focus on Hans is to provide a developmental account of both phobia and Oedipalization.
+
+> *It is with respect to the phobia of Little Hans that Freud tackles in the clearest fashion the matter of the relation to the object, which is crucial for the constitution of the subject. From the start, fear and object are linked* (pg 33)
+
+Interestingly, Kristeva also points out that fear indeed precedes speech, to the point that fear is itself a product of an imbalance in drive.  She goes further, to say
+
+>*The constitution of object relation might then be a reiteration of fear, alternating with optimal but precarious states of balance. Fear and object proceed together until the one represses the other. But in which one of us is that fully successful?* (pg 33-34)
 
 ## Hans Is Afraid of the Unnamable
 
+Kristeva touches on the case of Hans, and in doing so lays out several of the major themes of the chapter.  She pays close attention to the prodigious verbal character of Hans, linking fear with the drive for conversation and for knowledge.  She also points out that the phobic object is not the true object of fear, but is rather something more like a metaphor or hallucination for a more primary process.  The phobic object (in the case of Hans, horses) abrogates a whole "economy" of drives to itself, becoming a stand-in for *"want itself"*.  
+
+To put it another way, Hans is not really afraid of horses, he is afraid of a complex of things, he is "afraid of the unnamable".  The horse as phobic object steps in as a symbolic stand-in for this fear.
 ## Phobia as Abortive Metaphor of Want
 
 ### Terminology
